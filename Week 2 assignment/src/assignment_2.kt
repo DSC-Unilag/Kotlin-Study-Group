@@ -9,5 +9,12 @@ fun main(args:Array<String>)
 
 fun getSquares(word:String)
 {
-   //Complete this function to solve the question.
+  val intArray = intArrayOf(0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
+    
+    println(intArray.toList())
+    
+     val ranges = 0..9
+    for (i in ranges){
+        println("$i*$i")
+    }
 }
