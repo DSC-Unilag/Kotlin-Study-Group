@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acdf2b1f-34e2-4bbb-b9b7-8cac46693d6e" name="Default Changelist" comment="">
+    <list default="true" id="acdf2b1f-34e2-4bbb-b9b7-8cac46693d6e" name="Default Changelist" comment="done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 assignment/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 assignment/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 assignment/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 assignment/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 assignment/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 assignment/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 assignment/Week 2 assignment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 assignment/Week 2 assignment.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 assignment/out/production/Week 2 assignment/Assignment_2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 assignment/out/production/Week 2 assignment/META-INF/Week 2 assignment.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2 assignment/src/assignment_2.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Week3Assignment/src/submisisons.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week3Assignment/src/submisisons.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3Assignment/src/week3assignment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Week3Assignment/src/week3assignment.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,10 +45,42 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Week 3 Assignment" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main.kt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="acdf2b1f-34e2-4bbb-b9b7-8cac46693d6e" name="Default Changelist" comment="" />
@@ -52,5 +101,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="435" y="187" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1603557916505" />
+    <state x="402" y="7" key="#assignment3" timestamp="1603806667557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="7" key="#assignment3/0.0.1366.728@0.0.1366.728" timestamp="1603806667557" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603807339060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1603807339060" />
+    <state x="412" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603807337458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1603807337458" />
+    <state x="327" y="0" key="CommitChangelistDialog2" timestamp="1603807838818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="327" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603807838818" />
   </component>
 </project>
