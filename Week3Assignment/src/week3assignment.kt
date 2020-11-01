@@ -1,40 +1,31 @@
-open class Person( open var name: String, open var age: String) {
+open class Person(open var  name:String = "james emmanuel", open var age: Int = 22) {
+    var nickName:String? = "nothing"
+         set(value) {
+             field = value
+             println("call me $field")
+         }
 
-    fun personDetails() = println("My name is $name and I am $age years old")
 
+    fun printInfo():String{
+        return("My name is $name, but you can also call me $nickName and I'm $age years old")
+    }
 }
 
-class Student(override var name: String, override var age: String) :Person(name, age) {
-    var school: String = "defaultValue"
-        get() = field
-
+class Student(override var name: String, override var age:Int):Person(name, age){
+    var school:String? = null
         set(value) {
             field = value
         }
 
-    fun studentDetails() = println("I am a student of $school")
-
+    
+    fun printStudentInfo(){
+        println("${printInfo()}. I am a student of $school")
+    }
 }
 
-fun main(args:Array<String>)
-{
-    var person = Person("osemudiamen Itua", "67")
-    person.personDetails()
-
-    var student = Student("osemudiamen Itua", "67")
-    student.school = "University Of Lagos"
-
-    student.personDetails()
-
-    student.studentDetails()
+fun main() {
+    var student = Student("Abdulfatah Ridwan", 23)
+    student.nickName = "beastCoder, "
+    student.school = "University of lagos"
+    student.printStudentInfo()
 }
-
-/*
-    Expected output
-
-    My name is osemudiamen Itua and I am 67 years old
-    My name is osemudiamen Itua and I am 67 years old
-    I am a student of University Of Lagos
-
-* */
-
